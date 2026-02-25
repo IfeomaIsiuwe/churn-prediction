@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction
+# Customer Churn Prediction
 
 Businesses lose significant revenue every time a customer quietly cancels and walks away. The challenge is that by the time it's obvious, it's usually too late. This project explores whether we can predict who's likely to leave before they do, using machine learning on real telecom customer data.
 
